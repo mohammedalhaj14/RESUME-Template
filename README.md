@@ -9,6 +9,4 @@ A **modern and responsive Resume Template** built using **HTML, CSS, JavaScript,
 - 🎭 **Interactive elements** using jQuery
 - 🖊️ **Editable and customizable** for any profession
 
-## 🚀 Live Demo
-http://127.0.0.1:5500/index.html 
 
